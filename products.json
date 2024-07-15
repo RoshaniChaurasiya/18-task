@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Mobile Phone X",
+      "price": 499.99,
+      "image": "Images/mobile1.jpg",
+      "description": "High-end mobile phone with advanced features.",
+      "category": "Mobile"
+    },
+    {
+      "id": 2,
+      "name": "Camera Y",
+      "price": 299.99,
+      "image": "Images/camera1.jpg",
+      "description": "Professional-grade camera for photography enthusiasts.",
+      "category": "Camera"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Z",
+      "price": 899.99,
+      "image": "Images/laptop1.jpg",
+      "description": "Powerful laptop for gaming and productivity.",
+      "category": "Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Tablet W",
+      "price": 349.99,
+      "image": "Images/tablet1.jpg",
+      "description": "Portable tablet for entertainment and browsing.",
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch V",
+      "price": 199.99,
+      "image": "Images/smartwatch1.jpg",
+      "description": "Smartwatch with health tracking and notifications.",
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "DSLR Camera A",
+      "price": 599.99,
+      "image": "Images/camera2.jpg",
+      "description": "Professional-grade DSLR camera for photographers.",
+      "category": "Camera"
+    },
+    {
+      "id": 7,
+      "name": "Headphones B",
+      "price": 99.99,
+      "image": "Images/headphones1.jpg",
+      "description": "Wireless headphones with noise cancellation.",
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "name": "Gaming Console",
+      "price": 399.99,
+      "image": "Images/console1.jpg",
+      "description": "Latest gaming console for immersive gaming experiences.",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "name": "Smartphone",
+      "price": 699.99,
+      "image": "Images/mobile2.jpg",
+      "description": "Feature-rich smartphone with AI capabilities.",
+      "category": "Mobile"
+    },
+    {
+      "id": 10,
+      "name": "Mirrorless Camera",
+      "price": 799.99,
+      "image": "Images/camera3.jpg",
+      "description": "Compact mirrorless camera with 4K video recording.",
+      "category": "Camera"
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker F",
+      "price": 129.99,
+      "image": "Images/fitness1.jpg",
+      "description": "Fitness tracker with heart rate monitoring.",
+      "category": "Electronics"
+    },
+    {
+      "id": 12,
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "image": "Images/speaker1.jpg",
+      "description": "Portable Bluetooth speaker with rich sound.",
+      "category": "Electronics"
+    },
+    {
+      "id": 13,
+      "name": "Wireless Earbuds",
+      "price": 149.99,
+      "image": "Images/earbuds1.jpg",
+      "description": "True wireless earbuds for on-the-go audio.",
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "name": "Compact Drone",
+      "price": 299.99,
+      "image": "Images/drone1.jpg",
+      "description": "Compact drone for aerial photography and videography.",
+      "category": "Electronics"
+    },
+    {
+      "id": 15,
+      "name": "External SSD",
+      "price": 159.99,
+      "image": "Images/ssd1.jpg",
+      "description": "High-speed external SSD storage for data backup.",
+      "category": "Electronics"
+    },
+    {
+      "id": 16,
+      "name": "Action Camera",
+      "price": 249.99,
+      "image": "Images/camera4.jpg",
+      "description": "Waterproof action camera for outdoor adventures.",
+      "category": "Camera"
+    },
+    {
+      "id": 17,
+      "name": "Smart TV",
+      "price": 899.99,
+      "image": "Images/tv1.jpg",
+      "description": "Ultra HD smart TV with streaming capabilities.",
+      "category": "Electronics"
+    },
+    {
+      "id": 18,
+      "name": "Virtual Reality Headset",
+      "price": 399.99,
+      "image": "Images/vr1.jpg",
+      "description": "Immersive virtual reality headset for gaming and simulations.",
+      "category": "Electronics"
+    },
+    {
+      "id": 19,
+      "name": "Compact Digital Camera",
+      "price": 199.99,
+      "image": "Images/camera5.jpg",
+      "description": "Pocket-sized digital camera with zoom capabilities.",
+      "category": "Camera"
+    },
+    {
+      "id": 20,
+      "name": "Power Bank",
+      "price": 49.99,
+      "image": "Images/powerbank1.jpg",
+      "description": "Portable power bank for charging mobile devices on the go.",
+      "category": "Electronics"
+    }
+  ]
+  

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopEase - Your Online Store</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" />
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <img src="/Images/logo.jpeg" alt="ShopEase Logo" class="logo">
+           
+            <div class="search-sort">
+                <input type="text" id="search" placeholder="Search products...">
+                <select id="sort">
+                    <option value="name">Sort by Name</option>
+                    <option value="price">Sort by Price</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <!-- Description Section -->
+    <section class="description">
+        <div class="description-content">
+            <h2>ShopEase</h2>
+            <p>Welcome to ShopEase, your ultimate online shopping destination. We offer a wide range of products
+                from electronics to fashion, ensuring you find exactly what you're looking for. With our user-friendly
+                interface and secure checkout process, shopping has never been easier. Explore our collection today
+                and discover the ease of online shopping with ShopEase!</p>
+        </div>
+    </section>
+
+    <!-- Captions Section -->
+    <section class="captions">
+        <div class="caption-slider">
+            <h2>All Bumper Offers Here</h2>
+            <div class="caption">Up to 70% off | Bestsellers in appliances & kitchen from stores nearby</div>
+            <div class="caption">Best of Electronics</div>
+            <div class="caption">Fashion Sale - Up to 50% off</div>
+            <div class="caption">New Arrivals in Home & Furniture</div>
+        </div>
+    </section>
+     
+    <!-- Main Content Area -->
+    <main id="product-list">
+        <h2>Our Exclusive Products</h2>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 ShopEase</p>
+    </footer>
+
+    <!-- Product Modal -->
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <!-- jQuery and Script -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
