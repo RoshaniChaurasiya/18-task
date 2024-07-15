@@ -263,7 +263,7 @@ footer {
     }
 
     .product-card {
-        max-width: calc(100% - 2rem); /* Adjust max-width for better mobile view */
+        max-width: calc(100% - 2rem);
     }
 
     .description h2 {

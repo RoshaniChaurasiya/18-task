@@ -63,7 +63,7 @@ $(document).ready(function () {
         displayProducts(sortedProducts);
     });
 
-    // Handle product details (example)
+    // Handle product details
     $(document).on('click', '.details-button', function () {
         const productId = $(this).parent().data('id');
         const product = products.find(p => p.id === productId);
@@ -77,11 +77,11 @@ $(document).ready(function () {
     });
 
     $(document).on('click', '.close-button', function () {
-        $('#modal-body').empty(); // Clear modal content
+        $('#modal-body').empty();
         $('#product-modal').hide();
     });
     
-    // Handle favorites (example)
+    // Handle favorites
     $(document).on('click', '.favorites-button', function () {
         const productId = $(this).parent().data('id');
         if (favorites.includes(productId)) {
